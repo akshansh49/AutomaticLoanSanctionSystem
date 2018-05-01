@@ -2,3 +2,5 @@ Automated Loan Sanctioning System developed with a vision to minimise hu- man in
 
 
 Many banks do not have an automated system specifically to manage loan ap- provals. This situation gives rise to loan frauds . To solve this problem, a loan sanction management system is needed to check whether a person should be given a loan and verification of loan lending records.
+
+Dataset Link: https://www.kaggle.com/c/loan-default-prediction
